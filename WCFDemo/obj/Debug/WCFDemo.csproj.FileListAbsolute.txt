@@ -1,0 +1,4 @@
+D:\mycode\csharp\WCFDemo\WCFDemo\bin\WCFDemo.dll
+D:\mycode\csharp\WCFDemo\WCFDemo\bin\WCFDemo.pdb
+D:\mycode\csharp\WCFDemo\WCFDemo\obj\Debug\WCFDemo.dll
+D:\mycode\csharp\WCFDemo\WCFDemo\obj\Debug\WCFDemo.pdb
